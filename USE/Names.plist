@@ -5,7 +5,9 @@
 	<key>Names</key>
 	<array>
 		<string>Aleksander</string>
+		<string>Adrian</string>
 		<string>Filip</string>
+		<string>Grzegorz</string>
 		<string>Hubert</string>
 		<string>Jakub</string>
 		<string>Marek</string>
@@ -14,17 +16,21 @@
 		<string>Łukasz</string>
 		<string>Kamil</string>
 		<string>Mikołaj</string>
-		<string>Piotrek</string>
-		<string>Adrian</string>
+		<string>Piotr</string>
 		<string>Damian</string>
 		<string>Dawid</string>
 		<string>Daniel</string>
 		<string>Krzysztof</string>
 		<string>Janusz</string>
+		<string>Bartłomiej</string>
 		<string>Bartosz</string>
 		<string>Wojciech</string>
 		<string>Dominik</string>
 		<string>Michał</string>
+		<string>Marcin</string>
+		<string>Mirosław</string>
+		<string>Wojciech</string>
+		
 	</array>
 	<key>Surnames</key>
 	<array>
@@ -34,6 +40,7 @@
 		<string>Owsiak</string>
 		<string>Sikorski</string>
 		<string>Tusk</string>
+		<string>Czartoryski</string>
 	</array>
 </dict>
 </plist>
